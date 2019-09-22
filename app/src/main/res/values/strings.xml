@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pakaian Adat Indonesia</string>
+    <string name="clothes_name">Nama Pakaian</string>
+    <string name="clothes_detail">Detail Pakaian</string>
+</resources>
